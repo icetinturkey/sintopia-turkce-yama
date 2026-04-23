@@ -1,4 +1,4 @@
-## Sintopia - Türkçe Yama
+# Sintopia - Türkçe Yama
 ##### Sintopia oyunu için hazırlanmış türkçe yama eklentisi
 ##### :warning: Makine çevirisidir.
 ##### &nbsp;
