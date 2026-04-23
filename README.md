@@ -12,6 +12,12 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## :coffee: Bana bir kahve ısmarla
 Bu paylaşım topluluğunun büyümesini sağlamak için depomu favorilere ekleyebilir veya bana bağışta bulunabilirsiniz.
 * Litecoin
