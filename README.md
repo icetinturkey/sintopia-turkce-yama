@@ -1,6 +1,6 @@
 ## Sintopia - Türkçe Yama
-#### Sintopia oyunu için hazırlanmış türkçe yama eklentisi
-#### Makine çevirisidir.
+##### Sintopia oyunu için hazırlanmış türkçe yama eklentisi
+##### Makine çevirisidir.
 
 ## Kurulum
 - **1**: [Buraya tıklayarak](https://github.com/icetinturkey/sintopia-turkce-yama/releases) oyununuza uygun `Z_MyMod_P.pak` dosyasını indirin.
