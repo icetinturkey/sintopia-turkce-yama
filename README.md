@@ -1,9 +1,7 @@
 # Sintopia - Türkçe Yama
+![Image](https://github.com/icetinturkey/sintopia-turkce-yama/blob/main/screenshot.webp?raw=true)
 ##### Sintopia oyunu için hazırlanmış türkçe yama eklentisi
 ##### :warning: Makine çevirisidir.
-##### &nbsp;
-##### &nbsp;
-![Image](https://github.com/icetinturkey/sintopia-turkce-yama/blob/main/screenshot.webp?raw=true)
 ##### &nbsp;
 ##### &nbsp;
 ## :hammer_and_wrench: Kurulum
