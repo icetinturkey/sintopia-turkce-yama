@@ -3,6 +3,9 @@
 ##### :warning: Makine çevirisidir.
 ##### &nbsp;
 ##### &nbsp;
+![Image](https://github.com/icetinturkey/sintopia-turkce-yama/blob/main/screenshot.webp?raw=true)
+##### &nbsp;
+##### &nbsp;
 ## :hammer_and_wrench: Kurulum
 - **1**: [Buraya tıklayarak](https://github.com/icetinturkey/sintopia-turkce-yama/releases) oyununuza uygun `Z_MyMod_P.pak` dosyasını indirin.
 - **2**: \Sintopia\Content\Paks\ klasöründe ismi tam olarak `~mods` olan bir klasör oluşturun.
